@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CALIFICACIONES PROFESOR M</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="main-header">
+        <div class="logo-container">
+            <div class="logo-placeholder">PM</div>
+        </div>
+        <h1 class="teacher-title">PROFESOR M</h1>
+
+        <!-- Contenedor del Reproductor de Spotify Centrado -->
+<div style="display: flex; justify-content: center; width: 100%; margin: 15px 0;">
+    <div class="spotify-embed-container" style="width: 100%; max-width: 360px;">
+        <iframe src="https://open.spotify.com/embed/track/29zK4FF03CIc1bFFWRmMSb?utm_source=generator&theme=0" 
+                width="100%" 
+                height="80" 
+                frameBorder="0" 
+                allowfullscreen="" 
+                allow="autoplay; clipboard-write; fullscreen; picture-in-picture" 
+                loading="lazy">
+        </iframe>
+    </div>
+</div>
+        <a href="https://open.spotify.com/intl-es/track/29zK4FF03CIc1bFFWRmMSb" target="_blank" class="spotify-link" rel="noopener noreferrer">
+            <svg class="spotify-icon" viewBox="0 0 24 24" width="24" height="24">
+                <path fill="currentColor" d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm4.586 14.424c-.18.295-.565.387-.86.207-2.377-1.454-5.37-1.783-8.894-.978-.335.077-.67-.133-.746-.47-.077-.335.132-.67.467-.747 3.856-.88 7.15-.502 9.825 1.134.296.18.387.563.208.854zm1.222-2.724c-.226.367-.707.487-1.074.26-2.72-1.672-6.87-2.157-10.076-1.182-.413.125-.85-.107-.975-.522-.125-.413.107-.85.522-.975 3.666-1.11 8.242-.574 11.343 1.33.366.226.486.706.26 1.073zm.105-2.833C14.492 8.81 8.71 8.62 5.37 9.634c-.517.157-1.066-.134-1.223-.652-.157-.518.134-1.066.652-1.223 3.83-1.163 10.213-.943 14.236 1.446.465.276.615.877.34 1.342-.276.466-.878.616-1.343.341z"/>
+            </svg>
+            <span>PICALE AQUI!!! para escuchar la nueva rolita de Profesor M</span>
+        </a>
+    </header>
+
+    <main class="container">
+        <p id="guidance-text" class="guidance-text">Elige tu grupo para ver tu calificación</p>
+
+        <section class="controls-section">
+            <label for="group-select" class="select-label">Selecciona tu grupo</label>
+            <select id="group-select" class="group-dropdown">
+                <option value="" disabled selected>--</option>
+            </select>
+
+            <div id="subject-indicator" class="subject-indicator hidden">
+                Materia: <span id="subject-name"></span>
+            </div>
+        </section>
+
+        <section id="students-section" class="students-section hidden">
+            <div id="students-list" class="students-list"></div>
+        </section>
+    </main>
+
+    <div id="grade-modal" class="modal hidden">
+        <div class="modal-content">
+            <button id="close-modal" class="close-button" aria-label="Cerrar modal">×</button>
+            <h2 id="modal-student-name" class="modal-student-name"></h2>
+
+            <div id="modal-lock-state" class="modal-lock-state">
+                <div class="lock-wrapper">
+                    <div id="lock-target" class="lock-circle">?</div>
+                </div>
+                <p class="lock-instruction">Deja presionado el ? para ver tu calificación</p>
+            </div>
+
+            <div id="modal-reveal-state" class="modal-reveal-state hidden">
+                <div id="modal-badge-msg" class="modal-badge-msg"></div>
+                <div id="modal-grade-value" class="modal-grade-value"></div>
+                <div class="modal-notes-container">
+                    <p class="notes-text">Dudas y aclaraciones, unicamente de forma personal con el profe Martín, 8am a 3pm en su salón o el laboratorio de informática. Fecha Límite: Viernes 19 de Junio</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js?v=3"></script>
+</body>
+</html>

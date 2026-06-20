@@ -1,0 +1,384 @@
+:root {
+    --bg-clean: #f8fafd;
+    --dark-green: #0a2f1d;
+    --bright-green: #1db954;
+    --accent-gold: #c5a059;
+    --accent-gold-light: #f4e8c1;
+    --text-main: #111a14;
+    --text-muted: #62776a;
+    --card-bg: #ffffff;
+    
+    --score-red: #d32f2f;
+    --score-orange: #f57c00;
+    --score-yellow: #fbc02d;
+    --score-green: #388e3c;
+    --score-blue: #1976d2;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--bg-clean);
+    color: var(--text-main);
+    line-height: 1.4;
+    padding: 0 0 40px 0;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.main-header {
+    background-color: var(--dark-green);
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 20px;
+    border-bottom: 4px solid var(--accent-gold);
+}
+
+.logo-container {
+    margin-bottom: 12px;
+}
+
+.logo-placeholder {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 3px solid var(--accent-gold);
+    color: var(--accent-gold);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+
+.teacher-title {
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+    margin-bottom: 16px;
+}
+
+.spotify-link {
+    display: inline-flex;
+    align-items: center;
+    background-color: var(--bright-green);
+    color: #ffffff;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 30px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    transition: transform 0.2s ease;
+    max-width: 100%;
+}
+
+.spotify-link:active {
+    transform: scale(0.96);
+}
+
+.spotify-icon {
+    margin-right: 10px;
+    flex-shrink: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.guidance-text {
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--dark-green);
+    margin-bottom: 16px;
+    background-color: var(--accent-gold-light);
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.controls-section {
+    background-color: var(--card-bg);
+    padding: 24px;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(10, 47, 29, 0.05);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.select-label {
+    display: block;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    margin-bottom: 12px;
+}
+
+.group-dropdown {
+    width: 100%;
+    max-width: 200px;
+    padding: 12px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--dark-green);
+    border: 2px solid var(--dark-green);
+    border-radius: 8px;
+    background-color: #ffffff;
+    text-align: center;
+    text-align-last: center;
+}
+
+.subject-indicator {
+    margin-top: 16px;
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: var(--dark-green);
+    letter-spacing: 0.5px;
+}
+
+.subject-indicator span {
+    color: var(--accent-gold);
+    display: block;
+    font-size: 1.4rem;
+    margin-top: 4px;
+}
+
+.students-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.student-card {
+    background-color: var(--card-bg);
+    padding: 22px 20px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-left: 8px solid var(--dark-green);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.03);
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+}
+
+.student-card:active {
+    background-color: #f0f4f1;
+}
+
+.student-info-left {
+    flex: 1;
+    padding-right: 12px;
+}
+
+.student-name {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: var(--text-main);
+}
+
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(10, 47, 29, 0.85);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    z-index: 1000;
+}
+
+.modal-content {
+    background-color: #ffffff;
+    width: 100%;
+    max-width: 450px;
+    border-radius: 20px;
+    padding: 30px 24px;
+    position: relative;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+}
+
+.close-button {
+    position: absolute;
+    top: 16px;
+    right: 20px;
+    background: none;
+    border: none;
+    font-size: 2.2rem;
+    color: var(--text-muted);
+    cursor: pointer;
+    line-height: 1;
+    z-index: 10;
+}
+
+.modal-student-name {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: var(--dark-green);
+    margin-bottom: 24px;
+    padding-right: 20px;
+}
+
+.modal-lock-state {
+    padding: 20px 0;
+}
+
+.lock-wrapper {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.lock-circle {
+    width: 110px;
+    height: 110px;
+    background-color: var(--dark-green);
+    color: #ffffff;
+    border-radius: 50%;
+    font-size: 3.5rem;
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    -webkit-user-select: none;
+    cursor: pointer;
+    box-shadow: 0 6px 16px rgba(10, 47, 29, 0.3);
+    position: relative;
+    z-index: 2;
+}
+
+.lock-instruction {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    padding: 0 20px;
+}
+
+.lock-circle.pressing {
+    animation: progressive-shake 4s linear forwards;
+    background-color: var(--accent-gold);
+}
+
+@keyframes progressive-shake {
+    0% { transform: scale(1) rotate(0deg); }
+    10% { transform: scale(1.02) translate(1px, -1px) rotate(1deg); }
+    20% { transform: scale(1.04) translate(-1px, 2px) rotate(-1deg); }
+    30% { transform: scale(1.06) translate(2px, 1px) rotate(1.5deg); }
+    40% { transform: scale(1.08) translate(-2px, -1px) rotate(-1.5deg); }
+    50% { transform: scale(1.10) translate(3px, -2px) rotate(2deg); }
+    60% { transform: scale(1.12) translate(-3px, 3px) rotate(-2deg); }
+    70% { transform: scale(1.14) translate(4px, -3px) rotate(3deg); }
+    80% { transform: scale(1.16) translate(-5px, 4px) rotate(-3.5deg); }
+    90% { transform: scale(1.18) translate(6px, -5px) rotate(4.5deg); }
+    100% { transform: scale(1.20) translate(-8px, 6px) rotate(-6deg); }
+}
+
+.lock-circle.spectacular-explosion {
+    animation: burst-out 0.6s cubic-bezier(0.1, 0.8, 0.3, 1) forwards;
+    pointer-events: none;
+}
+
+@keyframes burst-out {
+    0% { 
+        transform: scale(1.2); 
+        background-color: var(--accent-gold); 
+        box-shadow: 0 0 30px var(--accent-gold); 
+        opacity: 1; 
+    }
+    40% { 
+        background-color: #ffffff; 
+        box-shadow: 0 0 60px #ffffff, 0 0 120px var(--bright-green); 
+        filter: blur(2px);
+        opacity: 0.9; 
+    }
+    100% { 
+        transform: scale(4.5); 
+        background-color: transparent; 
+        box-shadow: none; 
+        filter: blur(25px); 
+        opacity: 0; 
+    }
+}
+
+.modal-reveal-state {
+    animation: fadeIn 0.4s ease-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(15px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.modal-badge-msg {
+    font-size: 1.3rem;
+    font-weight: 800;
+    margin-bottom: 8px;
+    letter-spacing: 0.5px;
+}
+
+.modal-grade-value {
+    font-size: 4.5rem;
+    font-weight: 900;
+    line-height: 1;
+    margin-bottom: 24px;
+}
+
+.modal-grade-value.text-gold-style {
+    /* Se estrechan los límites del blanco (45% a 55%) para que el destello sea más delgado y espaciado */
+    background: linear-gradient(110deg, #b5892c 45%, #ffffff 50%, #b5892c 55%);
+    /* Se aumenta a 300% para incrementar la distancia física entre cada repetición del destello */
+    background-size: 300% auto;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0px 0px 10px rgba(181, 137, 44, 0.6));
+    /* Se incrementa el tiempo a 5 segundos para reducir la velocidad del movimiento */
+    animation: gold-flash 5s linear infinite;
+    display: inline-block;
+}
+
+@keyframes gold-flash {
+    0% {
+        background-position: 200% center;
+    }
+    100% {
+        background-position: -200% center;
+    }
+}
+
+.modal-notes-container {
+    border-top: 2px dashed #e0e0e0;
+    padding-top: 16px;
+    margin-top: 8px;
+}
+
+.notes-text {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    text-align: center;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.text-red { color: var(--score-red); }
+.text-orange { color: var(--score-orange); }
+.text-yellow { color: var(--score-yellow); }
+.text-green { color: var(--score-green); }
+.text-blue { color: var(--score-blue); }
+.text-gold { color: #b5892c; }
