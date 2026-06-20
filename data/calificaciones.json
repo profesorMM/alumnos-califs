@@ -2,27 +2,27 @@
   "1C": [
     {
       "nombre": "ARREOLA DEVORA CAMILA RUBI",
-      "calificacionFinal": 7
+      "calificacionFinal": 10
     },
     {
       "nombre": "AVITIA REYES INGRID DENISSE",
-      "calificacionFinal": 10
-    },
-    {
-      "nombre": "BENITEZ SANDOVAL XIMENA",
-      "calificacionFinal": 5
-    },
-    {
-      "nombre": "BETANCOURT  ALDO IVAN",
-      "calificacionFinal": 10
-    },
-    {
-      "nombre": "CABALLERO LOPEZ NATALIA ISABELA",
       "calificacionFinal": 9
     },
     {
+      "nombre": "BENITEZ SANDOVAL XIMENA",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "BETANCOURT  ALDO IVAN",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "CABALLERO LOPEZ NATALIA ISABELA",
+      "calificacionFinal": 6
+    },
+    {
       "nombre": "CAMACHO RIVERA DALIA",
-      "calificacionFinal": 10
+      "calificacionFinal": 5
     },
     {
       "nombre": "FRIAS PEREZ ZAMARA GUADALUPE",
@@ -50,7 +50,7 @@
     },
     {
       "nombre": "PADILLA VILLEGAS MAYTE",
-      "calificacionFinal": 10
+      "calificacionFinal": 5
     },
     {
       "nombre": "PARRA REYES MIGUEL",
