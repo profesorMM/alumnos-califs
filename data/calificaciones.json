@@ -1,13 +1,1084 @@
 {
-  "201": [],
-  "202": [],
-  "203": [],
-  "204": [],
-  "205": [],
-  "401": [],
-  "402": [],
-  "403": [],
-  "404": [],
-  "405": [],
-  "406": []
+  "1C": [
+    {
+      "nombre": "ARREOLA DEVORA CAMILA RUBI",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "AVITIA REYES INGRID DENISSE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "BENITEZ SANDOVAL XIMENA",
+      "calificacionFinal": 5
+    },
+    {
+      "nombre": "BETANCOURT  ALDO IVAN",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "CABALLERO LOPEZ NATALIA ISABELA",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "CAMACHO RIVERA DALIA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "FRIAS PEREZ ZAMARA GUADALUPE",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "FUENTES RODRIGUEZ JOSE MARIA",
+      "calificacionFinal": 4
+    },
+    {
+      "nombre": "GALLEGOS GALLEGOS WENDY SYLEY",
+      "calificacionFinal": 6
+    },
+    {
+      "nombre": "HERNANDEZ BRIANA ABIGAIL",
+      "calificacionFinal": 3
+    },
+    {
+      "nombre": "MARTINEZ TERRONES ELVIRA YAMILET",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "NUÑEZ MEZA ZAHID SEBASTIAN",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "PADILLA VILLEGAS MAYTE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "PARRA REYES MIGUEL",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "REYES ANGEL SOL DANELI",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "RUIZ FRANCO JULIETA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "VALENZUELA MENDOZA NOEMI CAROLINA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "VALENZUELA RAMIREZ PAOLA GUADALUPE",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "VALENZUELA VALENZUELA ANA MARIA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "VARGAS RETANA JOSUE ANTONIO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "VELASQUEZ GARCIA MARIA ISLENI",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "OLGUIN CORRAL ALEXIS ARTURO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RODRIGUEZ CABALLERO JONATHAN",
+      "calificacionFinal": 10
+    }
+  ],
+  "1M": [
+    {
+      "nombre": "AVITIA RAMIREZ AZUL DANAE",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "CARBAJAL SANCHEZ JOEL ANTONIO",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "DOMINGUEZ ONTIVEROS WILLIAM",
+      "calificacionFinal": 3
+    },
+    {
+      "nombre": "GARCIA HERNANDEZ JACYD MAYLENE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "GOMEZ FRANCO LUIS ANGEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "HERNANDEZ DEL TORO IRMA GUADALUPE",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "HERNANDEZ MARTINEZ JESUS JAVIER",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "HERRERA MARTINEZ AYLIN ARELY",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "HUERTA MARTINEZ CAROLINA ESPERANZA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "IBARRA CALLEROS EVELYN GUADALUPE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "IRIGOYEN QUIÑONES BRANDON",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "LOPEZ ORTIZ ALAN JESUS",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "NIEVES ESCOBEDO XIMENA AIDE",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "NUÑEZ AYALA ABEL EDUARDO",
+      "calificacionFinal": 4
+    },
+    {
+      "nombre": "NUÑEZ ZUÑIGA JESUS ALBERTO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "PEREZ IBARRA ISIDRO DAVID",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "QUIÑONES ALMODOVAR ERICK JESSUI",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "QUIÑONEZ CASTRO JUAN JACIEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RAMIREZ ORTIZ JAIRO YOSEP",
+      "calificacionFinal": 5
+    },
+    {
+      "nombre": "RAMIREZ RODRIGUEZ HECTOR MANUEL",
+      "calificacionFinal": 5
+    },
+    {
+      "nombre": "SIDA MALDONADO JOSE MARIA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "VALLES NORIEGA ZLATAN KARIM",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "VAZQUEZ SOTO VALENTIN",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "VILLALOBOS ORTIZ ERNESTO FROILAN",
+      "calificacionFinal": 10
+    }
+  ],
+  "2C": [
+    {
+      "nombre": "ADAME NUÑEZ EDUARDO IVAN",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "BARRAZA SANABRIA UBALDO DE JESUS",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "CASTRO QUIÑONES PABLO ADRIAN",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "CORONADO MARROQUIN DAISY ARACELY",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "DIAZ HERRERA JOSUE FERNANDO",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "DURON FERNANDEZ ETHAN NOE",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "FAVELA MARROQUIN VIANEY JAQUELINE",
+      "calificacionFinal": 3
+    },
+    {
+      "nombre": "LOPEZ AYALA EFREN JOEL",
+      "calificacionFinal": 4
+    },
+    {
+      "nombre": "RIVERA MARTINEZ KIMBERLY GUADALUPE",
+      "calificacionFinal": 5
+    },
+    {
+      "nombre": "OBREGON GONZALEZ MIGUEL ANGEL",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "OROZCO PAYAN RASHID ISAAC",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "ORTEGA NEVAREZ SANTIAGO",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "PAYAN NAVARRETE OSVALDO ZAMIR",
+      "calificacionFinal": 4
+    },
+    {
+      "nombre": "QUEVEDO MARIN FERNANDO",
+      "calificacionFinal": 6
+    },
+    {
+      "nombre": "REYES QUEZADA DIEGO",
+      "calificacionFinal": 5
+    },
+    {
+      "nombre": "RIOPEDRE MARQUEZ IRVING IVAN",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "ESPINOZA PRENDIS LUZ ARIANA",
+      "calificacionFinal": 3
+    },
+    {
+      "nombre": "RODRIGUEZ MORENO JENNIFER MICHELL",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "ROSAS MORALES HAZIEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RUIZ ARREOLA PEDRO",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "SANTOS GUTIERREZ OSCAR ALEJANDRO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "VELAZQUEZ SANCHEZ PAUL ESAU",
+      "calificacionFinal": 7
+    }
+  ],
+  "2M": [
+    {
+      "nombre": "ALVAREZ VALENZUELA AYLIN VALERIA",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "GALLEGOS RUIZ GERARDO YAIR",
+      "calificacionFinal": 2
+    },
+    {
+      "nombre": "ARAMBULA BRISEÑO ANGEL MANUEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "BENITEZ GALARZA ANGEL DAVID",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "CABALLERO RODRIGUEZ KARLA",
+      "calificacionFinal": 5
+    },
+    {
+      "nombre": "CALDERA DE SANTIAGO CAROLINA",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "CAMPOS UNZUETA ALDO RAMON",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "FAVELA MARROQUIN IDALY MARLENE",
+      "calificacionFinal": 6
+    },
+    {
+      "nombre": "FRANCO MIJARES PAULA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "GARCIA FRANCO VALERIA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "ORTIZ ALAMOS JOHAN JAVIER",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "ORTIZ JUAREZ ANA ELIDIA",
+      "calificacionFinal": 3
+    },
+    {
+      "nombre": "PARRA BARRAZA ARMANDO",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "QUINTANA RODRIGUEZ EDEN",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "REYES HERRERA JULIO CESAR",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "RIOPEDRE MARQUEZ GEORGIA ROMINA",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "RIVERA HERRERA MARTIN GUADALUPE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RUIZ GURROLA DANIEL",
+      "calificacionFinal": 6
+    },
+    {
+      "nombre": "SANTOS AVITIA JOSE GAEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "SIDA RUVALCABA JARED JOSUE",
+      "calificacionFinal": 0
+    },
+    {
+      "nombre": "SOTO DOMINGUEZ GUILLERMO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "VALENZUELA VASQUEZ ALEJANDRO",
+      "calificacionFinal": 0
+    }
+  ],
+  "3C": [
+    {
+      "nombre": "CANO GAMBOA BRISA ELIZABETH",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "DE LA ROSA NAVA OLIVER JOAN",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "ESTRADA GALVAN WILLIAM LEONARDO",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "FLORES PARRA ARLETTE",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "FRAILE MARTINEZ JESUS EMANUEL",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "GARCIA SALAZAR MARIA YETZALI",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "GARCIA SALAZAR MAYLE LUCIA",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "GRACIANO QUEZADA IVANA",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "GURROLA PEÑA JEREMY HALIM",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "PIZARRO VILLA IMANOL",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "QUEBEDO VALDEZ ISAMAR",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "QUEZADA GARAY JENNYFER ALINA",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "RECIO DOMINGUEZ ALDO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RENTERIA GARCIA FELIPE DE JESUS",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "ROSAS CARBAJAL ISABELLA MADAI",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "SOTO MARTINEZ LIZBETH",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "TINOCO QUIÑONES CESAR RISS",
+      "calificacionFinal": 5
+    },
+    {
+      "nombre": "VALENZUELA PIZAÑA ANGEL DAVID",
+      "calificacionFinal": 6
+    },
+    {
+      "nombre": "VAZQUEZ PIZARRO ITALY TAMARA",
+      "calificacionFinal": 5
+    },
+    {
+      "nombre": "MADERA REYES JOSE ARMANDO",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "HUERTA SANCHEZ BRISA DENISSE",
+      "calificacionFinal": 5
+    },
+    {
+      "nombre": "VILLA RETANA ABRAHAM USIEL",
+      "calificacionFinal": 6
+    }
+  ],
+  "3M": [
+    {
+      "nombre": "ACOSTA HERNANDEZ DIEGO",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "ALVAREZ REYES LEONARDO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "AVILA BERMUDEZ DAFNE ALEJANDRA",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "AYALA GONZALEZ KRITZIA LILY",
+      "calificacionFinal": 6
+    },
+    {
+      "nombre": "CASTRO ROCHA SANTIAGO OSCAR",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "CHAVEZ REYES ORLANDO ALBERTO",
+      "calificacionFinal": 3
+    },
+    {
+      "nombre": "DIAZ HUERTA MARIA FERNANDA",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "GALINDO FRANCO JUAN MANUEL",
+      "calificacionFinal": 5
+    },
+    {
+      "nombre": "GALINDO NORIEGA MICAELA G",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "GALVAN RETANA MISAEL",
+      "calificacionFinal": 5
+    },
+    {
+      "nombre": "GARAY VALENZUELA KIMBERLY",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "GARCIA LUNA MANUEL ERNESTO",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "GONZALEZ DIAZ KEIRA ABRIL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "GURROLA ANTUNA CESAR ISAAC",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "GURROLA ANTUNA JULIO ISMAEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "HERRERA REYES EDWIN",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "MORALES CANAAN JAVIER",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "PIÑA ARCINIEGA ALLISSON RENATA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "REYES ESTRADA GENESIS YOMARA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RIVAS ALVARADO ULISES ALONSO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RIVAS VELAZQUEZ GERARDO ISAAC",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RODRIGUEZ CARRAZCO MIRIAM",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "SANTOS HERRERA JIMENA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "TERRAZAS ACOSTA HANNA YISEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "VALENZUELA MENDOZA MAYTE V",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "ZEGER VASQUEZ YUSEI",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "BERNAL SARIÑANA GUILLERMO ANTONIO",
+      "calificacionFinal": 5
+    },
+    {
+      "nombre": "COLIN SARABIA XANA CAMILA",
+      "calificacionFinal": 10
+    }
+  ],
+  "4C": [
+    {
+      "nombre": "AVILA BARRAZA ANGEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "CHAVEZ MORONES NEFTALI JANET",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "CORRAL ARELLANO GIOVANY",
+      "calificacionFinal": 6.4
+    },
+    {
+      "nombre": "ENRIQUEZ MARTINEZ MARIANA LIZETH",
+      "calificacionFinal": 9.3
+    },
+    {
+      "nombre": "GRACIANO ANGELES JAQUELINE",
+      "calificacionFinal": 3.3
+    },
+    {
+      "nombre": "GRAJEDA VALDEZ SARETH ABIGAIL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "HERNANDEZ OBREGON MAGALY ABIGAIL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "LOPEZ FRANCO ELEAZAR",
+      "calificacionFinal": 7.4
+    },
+    {
+      "nombre": "MARTINEZ ONTIVEROS JORDY ESAU",
+      "calificacionFinal": 9.3
+    },
+    {
+      "nombre": "NEVAREZ PUGA STEISY NAHOMI",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "ORTIZ GUAJARDO OMALI NOHEMI",
+      "calificacionFinal": 9.3
+    },
+    {
+      "nombre": "REYES BARRAZA OSCAR ALONSO",
+      "calificacionFinal": 9.3
+    },
+    {
+      "nombre": "REYES ORTIZ JOSELYN ARELY",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "REYES ROSA JOSE ISAAC",
+      "calificacionFinal": 9.3
+    },
+    {
+      "nombre": "REYES VALENZUELA AILEEN SIOMARA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RIVERA ALDAY JONATHAN AUSENCIO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RUVALCABA NAVARRETE GIOVANNA",
+      "calificacionFinal": 3.3
+    },
+    {
+      "nombre": "VALENZUELA REYES PEDRO JAVIER",
+      "calificacionFinal": 7.4
+    }
+  ],
+  "4M": [
+    {
+      "nombre": "ALAMILLO INSURRIAGA JUAN AGUSTIN",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "ALDABA QUEZADA SERGIO ALEJANDRO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "ARELLANO SANTILLAN SARA",
+      "calificacionFinal": 9.5
+    },
+    {
+      "nombre": "AYALA ARREOLA JOSUE MANUEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "CHAVEZ QUINTERO BELEN GUADALUPE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "DIAZ ACOSTA ANGELA BENNET",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "DIAZ GARCIA VALENTINA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "DIAZ NIEVES DANIELA ANAHI",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "FRANCO QUIÑONES MIGUEL ALONSO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "FUENTES GONZALEZ DULCE MARIA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "GALINDO CRUZ PAOLA MATZIEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "GALLEGOS GARCIA JULIA",
+      "calificacionFinal": 9.5
+    },
+    {
+      "nombre": "GARCIA DIAZ ESTRELLA",
+      "calificacionFinal": 8.3
+    },
+    {
+      "nombre": "GONZALEZ SOTO SOFIA JOSELYN",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "MORALES DIAZ CAMILA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "NIEVES GARCIA JOSE MANUEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "OBREGON GURROLA KITZIA PALOMA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "ORONA CAMPOS XIMENA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "PEREZ SANDOVAL MIGUEL ANGEL",
+      "calificacionFinal": 9.5
+    },
+    {
+      "nombre": "QUIÑONES CONTRERAS YERALDINNE  ALICIA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RAMOS CALDERA ROMAN JAIR",
+      "calificacionFinal": 9.5
+    },
+    {
+      "nombre": "REYES FERNANDEZ DANITZIA GUADALUPE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "REYES GONZALEZ BRAYAN EDUARDO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "REYES IRIGOYEN PALOMA YAMILE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "ROJAS RIVERA XIMENA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "ROMERO HERNANDEZ JOHANA RUBI",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "SANCHEZ SOTO SAHAMANTHA SUSSEY",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "SANDOVAL CAMPOS EMELY GUADALUPE",
+      "calificacionFinal": 9.5
+    },
+    {
+      "nombre": "SIDA DOMINGUEZ LILIANA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "VELAZQUEZ GUTIERREZ VICTORIA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "VILLARREAL HERRERA BRIANA",
+      "calificacionFinal": 9.5
+    },
+    {
+      "nombre": "VILLASEÑOR MENDOZA TANYA GUADALUPE",
+      "calificacionFinal": 9.5
+    }
+  ],
+  "5C": [
+    {
+      "nombre": "ALVARADO ROJAS ANGEL ISAIAS",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "ALVAREZ  JOSE DE JESUS",
+      "calificacionFinal": 5
+    },
+    {
+      "nombre": "AMAYA GARCIA PAOLA MICHELTH",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "AVILA DUARTE SEBASTIAN FERNANDO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "CABALLERO CHAIREZ PAMELA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "FALCON QUEZADA ANGEL LEON",
+      "calificacionFinal": 3
+    },
+    {
+      "nombre": "HERRERA MARTINEZ LUIS ENRIQUE",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "LERMA SANDOVAL NATTALIA",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "LUNA RIVAS ALEXIS SEBASTIAN",
+      "calificacionFinal": 5
+    },
+    {
+      "nombre": "MAR PAYAN DULCE MAYELA",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "MONTES REYES JADE",
+      "calificacionFinal": 6
+    },
+    {
+      "nombre": "MORALES MEDRANO ABRAHAM",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "MORALES REYES REGINA",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "MUÑOZ IRIGOYEN JESUS",
+      "calificacionFinal": 6
+    },
+    {
+      "nombre": "ONTIVEROS ARRATIA YOCZAN",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "OROZCO REYES CAMILA YAHAIRA",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "QUEZADA MEZA ANAMAR",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "REYES SORIA DAYANA ALEJANDRA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "ROJAS CASTRO GARDENIA",
+      "calificacionFinal": 10
+    }
+  ],
+  "5M": [
+    {
+      "nombre": "AGUIRRE AVILA ANGEL HASSAN",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "ANDRADE NEVAREZ ANTONIO ITAMAR",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "ARELLANO SANTILLAN DIANA",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "ARGUMEDO GARCIA EVELYN",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "BLANCO NEVAREZ ORLANDO",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "CIGARROA ORTIZ ANGELICA",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "CONTRERAS CHAIREZ JUAN PEDRO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "CONTRERAS SARIÑANA LUIS MANUEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "ESPARZA ARREZ JOSE EDUARDO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "FAVELA PEREDA CRISS ANGEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "FLORES CEBALLOS RODRIGO",
+      "calificacionFinal": 7
+    },
+    {
+      "nombre": "GARCIA MORALES EFREN FERNANDO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "GARCIA RAMOS ELIAN YAEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "GUERRERO ARANGO NAHOMI ABIZAI",
+      "calificacionFinal": 6
+    },
+    {
+      "nombre": "LARA GONZALEZ ALISSON DANAE",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "NUÑEZ GARCIA EDITH",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "ONTIVEROS CHAVEZ KAMILA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "ORTIZ BURCIAGA JOSE ANGEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "PAEZ ALVAREZ ESMERALDA JOSELINE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "PEREZ ORTIZ LUZ ARELI",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "QUIROGA MARTINEZ GAEL",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "RAMIREZ PONCE EDGAR TADEO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "REYES CASTAÑEDA XIMENA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RODRIGUEZ PIZARRO KEVIN ADRIAN",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "SIFUENTES MORALES WILLIAM ISAAC",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "SORIA AVITIA OWHEN IVAN",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "RODRIGUEZ RAMIREZ OSCAR GAEL",
+      "calificacionFinal": 8
+    }
+  ],
+  "6M": [
+    {
+      "nombre": "ALVARADO FUENTES HELEN MARINA",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "CAMPOS GARCIA MARIA JOSE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "CORRAL DURON KETZALY ESTRELLA",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "CHAVARRIA ROJAS DANIELA GUADALUPE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "CHAVEZ DIAZ DIEGO ANGEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "DEL TORO FAVELA LOVELY ENID",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "DIAZ VARGAS XIMENA SOCORRO",
+      "calificacionFinal": 9
+    },
+    {
+      "nombre": "GRACIANO ENRIQUEZ LILIANA NOHEMI",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "LUNA GRAJEDA ELIUD ASHAEL",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "LUNA TORRES ANDREA SUGEY",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "MARTINEZ RIVERA ELIZABETH",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "MORALES VALENCIANA ALYSON GUADALUPE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "MORALES VARGAS JIMENA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "PARRA SEGOVIA KASSANDRA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "PEREZ ROSAS MARIO ALBERTO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "PIZAÑA FRANCO KEVIN EDUARDO",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "PIZARRO ACOSTA NEIDA GUADALUPE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RENTERIA PEREZ ESTRELLA GUADALUPE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "REYES RODRIGUEZ KETZUVY YARELY",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "REYES SANCHEZ ANAHI",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RODRIGUEZ GALLEGOS INGRID DENISE",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "RODRIGUEZ GURROLA FERNANDA SARAHI",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "SANDOYA BARRON CAMILA ARALY",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "SARIÑANA PINEDO KAROL XIMENA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "TERRAZAS  ANA GUADALUPE",
+      "calificacionFinal": 8
+    },
+    {
+      "nombre": "VALADEZ HERNANDEZ WILLIAM ALEJANDRO",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "VALENZUELA HUERTA CAMILA",
+      "calificacionFinal": 10
+    },
+    {
+      "nombre": "HERNANDEZ SOTO BRISSA",
+      "calificacionFinal": 6
+    }
+  ]
 }
